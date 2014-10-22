@@ -1,6 +1,6 @@
 {
     "name": "origami/requests",
-    "description": "",
+    "description": "Request / Validation for Laravel 4 projects",
     "authors": [
         {
             "name": "Papertank",
